@@ -1,5 +1,10 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/0e5bc91f-c827-4e06-89c6-90643b43312e" />  Hey, I'm Sakuma!  <img src="https://github.com/user-attachments/assets/274d3c94-50d8-451e-9f6b-23a3dc1f6d34" />
+</h1>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/487cb220-8411-4ff3-bb3b-84ea9882cd87" width="400" />
+</div>
 <!--
 **Jaguaratica/Jaguaratica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
