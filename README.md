@@ -25,7 +25,7 @@
 </h3>
 
 <div align="center">
-  <h6>I believe that creativity and technology are powerful tools to change our reality. Truly believe we can build a new world.</h6>
+  <h6>Creativity and technology are powerful tools to change our reality.</h6>
 </div>
 <br><br>
 
