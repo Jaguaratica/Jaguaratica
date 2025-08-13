@@ -25,7 +25,7 @@
 </h3>
 
 <div align="center">
-  <h6>Creativity and technology are powerful tools to change our reality.</h6>
+  <h6>"A terrifying presence has entered the room...".</h6>
 </div>
 <br><br>
 
